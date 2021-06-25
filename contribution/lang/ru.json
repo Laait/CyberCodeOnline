@@ -412,7 +412,7 @@
  	 	 	 	"eng": "[AFK Exp Farm]\r\n        Deploys an AI to dungeon for you. This will use up an AI Core, they usually only just manage the one trip."
  	 	 	},
  	 	 	"tut": {
- 	 	 	 	"trans": "Используй свой AI Core, чтобы автоматически побеждать противников",
+ 	 	 	 	"trans": "Используй своё Ядро ИИ, чтобы автоматически побеждать противников",
  	 	 	 	"eng": "You can use your AI Core to Auto-Farm enemies while you AFK"
  	 	 	}
  	 	},
@@ -584,7 +584,7 @@
  	 	},
  	 	"healing1": {
  	 	 	"name": {
- 	 	 	 	"trans": "Pain Away",
+ 	 	 	 	"trans": "Снимает Боль",
  	 	 	 	"eng": "Pain Away"
  	 	 	},
  	 	 	"description": {
@@ -664,7 +664,7 @@
  	 	},
  	 	"healingArea1": {
  	 	 	"name": {
- 	 	 	 	"trans": "Pain Away Spray",
+ 	 	 	 	"trans": "Спрей от Боли",
  	 	 	 	"eng": "Pain Away Spray"
  	 	 	},
  	 	 	"description": {
@@ -962,41 +962,41 @@
  	 	},
  	 	"upgradeChanceIncreaser0": {
  	 	 	"name": {
- 	 	 	 	"trans": "Calibration AI Shard (5%)",
+ 	 	 	 	"trans": "Калибровка осколка ИИ (5%)",
  	 	 	 	"eng": "Calibration AI Shard (5%)"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Contains fragments of advance AI designed to assist with upgrading equipments.\r\n        When used, decreases the chance of destructive failure by 5% (stackable) for 5 minutes.",
+ 	 	 	 	"trans": "Содержит фрагменты усовершенствованного ИИ, предназначенного для оказания помощи в модернизации оборудования.\r\n       При использовании уменьшает вероятность разрушения на 5% (складывается) в течение 5 минут. Этот эффект будет распространяться на всех игроков онлайн.",
  	 	 	 	"eng": "Contains fragments of advance AI designed to assist with upgrading equipments.\r\n        When used, decreases the chance of destructive failure by 5% (stackable) for 5 minutes."
  	 	 	}
  	 	},
  	 	"upgradeChanceIncreaser1": {
  	 	 	"name": {
- 	 	 	 	"trans": "Calibration AI Shard (10%)",
+ 	 	 	 	"trans": "Калибровка осколка ИИ (10%)",
  	 	 	 	"eng": "Calibration AI Shard (10%)"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Contains fragments of advance AI designed to assist with upgrading equipments.\r\n        When used, decreases the chance of destructive failure by 10% (stackable) for 5 minutes.",
+ 	 	 	 	"trans": "Содержит фрагменты усовершенствованного ИИ, предназначенного для оказания помощи в модернизации оборудования.\r\n        При использовании уменьшает вероятность разрушения на 10% (складывается) в течение 5 минут. Этот эффект будет распространяться на всех игроков онлайн.",
  	 	 	 	"eng": "Contains fragments of advance AI designed to assist with upgrading equipments.\r\n        When used, decreases the chance of destructive failure by 10% (stackable) for 5 minutes."
  	 	 	}
  	 	},
  	 	"upgradeChanceIncreaser2": {
  	 	 	"name": {
- 	 	 	 	"trans": "Calibration AI Shard (50%)",
+ 	 	 	 	"trans": "Калибровка осколка ИИ (50%)",
  	 	 	 	"eng": "Calibration AI Shard (50%)"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Contains fragments of advance AI designed to assist with upgrading equipments.\r\n        When used, decreases the chance of destructive failure by 50% (stackable) for 5 minutes. This effect will apply to all players online",
+ 	 	 	 	"trans": "Содержит фрагменты усовершенствованного ИИ, предназначенного для оказания помощи в модернизации оборудования.\r\n        При использовании уменьшает вероятность разрушения на 50% (складывается) в течение 5 минут. Этот эффект будет распространяться на всех игроков онлайн",
  	 	 	 	"eng": "Contains fragments of advance AI designed to assist with upgrading equipments.\r\n        When used, decreases the chance of destructive failure by 50% (stackable) for 5 minutes. This effect will apply to all players online"
  	 	 	}
  	 	},
  	 	"upgradeChanceIncreaser3": {
  	 	 	"name": {
- 	 	 	 	"trans": "Calibration AI Shard (100%)",
+ 	 	 	 	"trans": "Калибровка осколка ИИ(100%)",
  	 	 	 	"eng": "Calibration AI Shard (100%)"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Contains fragments of advance AI designed to assist with upgrading equipments.\r\n        When used, decreases the chance of destructive failure by 100% (stackable) for 5 minutes. This effect will apply to all players online",
+ 	 	 	 	"trans": "Содержит фрагменты усовершенствованного ИИ, предназначенного для оказания помощи в модернизации оборудования.\r\n        При использовании уменьшает вероятность разрушения на 100% (складывается) в течение 5 минут. Этот эффект будет распространяться на всех игроков онлайн",
  	 	 	 	"eng": "Contains fragments of advance AI designed to assist with upgrading equipments.\r\n        When used, decreases the chance of destructive failure by 100% (stackable) for 5 minutes. This effect will apply to all players online"
  	 	 	}
  	 	},
@@ -1006,7 +1006,7 @@
  	 	 	 	"eng": "Calibration Safety Nano Bots"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Experimental nano machines designed to reduces and negate the destructive effect when failing calibration, \r\n        when this is activated, all calibration fails will not destroy the item for 5 minutes",
+ 	 	 	 	"trans": "Экспериментальные наномашины, предназначенные для уменьшения и устранения разрушительного эффекта при неудачной калибровке, \r\n        когда активировано, все сбои калибровки не приведут к уничтожению изделия в течение 5 минут",
  	 	 	 	"eng": "Experimental nano machines designed to reduces and negate the destructive effect when failing calibration, \r\n        when this is activated, all calibration fails will not destroy the item for 5 minutes"
  	 	 	}
  	 	},
@@ -1016,13 +1016,13 @@
  	 	 	 	"eng": "Old Pouch"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "A forgotten ancient pouch, \r\n        there is a weird cartoon frog with big mouth and red lips drawing at the side of it,\r\n        the meaning of the ancient ominous drawing is unknown, but it is handy for keep some small object in it.\r\n        increase inventory space when equipped.",
+ 	 	 	 	"trans": "Забытый и древний мешочек, \r\n        сбоку нарисована странная мультяшная лягушка с большим ртом и красными губами,\r\n        значение древнего зловещего рисунка неизвестно, но в нем удобно хранить какой-нибудь небольшой предмет.\r\n        Увеличивает Инвентарь.",
  	 	 	 	"eng": "A forgotten ancient pouch, \r\n        there is a weird cartoon frog with big mouth and red lips drawing at the side of it,\r\n        the meaning of the ancient ominous drawing is unknown, but it is handy for keep some small object in it.\r\n        increase inventory space when equipped."
  	 	 	}
  	 	},
  	 	"backpack2": {
  	 	 	"name": {
- 	 	 	 	"trans": "Fanny Pack",
+ 	 	 	 	"trans": "Поясная Сумка",
  	 	 	 	"eng": "Fanny Pack"
  	 	 	},
  	 	 	"description": {
@@ -1032,7 +1032,7 @@
  	 	},
  	 	"backpack3": {
  	 	 	"name": {
- 	 	 	 	"trans": "Explorer's Backpack",
+ 	 	 	 	"trans": "Рюкзак Исследователя",
  	 	 	 	"eng": "Explorer's Backpack"
  	 	 	},
  	 	 	"description": {
@@ -1046,7 +1046,7 @@
  	 	 	 	"eng": "Employee Office Case"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "An standard issue office case, it has a label with whit print with \"Arasaka\" on it, \r\n        while it is specious and has some high tech compartment and slots for document storage, it is not not very suitable for carrying weapons\r\n        increase inventory space when equipped",
+ 	 	 	 	"trans": "Стандартный офисный кейс, на нем есть этикетка с белой печатью  \"Arasaka\" on it, \r\n        несмотря на то, что он просторный и имеет несколько высокотехнологичных отсеков и слотов для хранения документов, он не очень подходит для ношения оружия\r\n        Увеличивает Инвентарь",
  	 	 	 	"eng": "An standard issue office case, it has a label with whit print with \"Arasaka\" on it, \r\n        while it is specious and has some high tech compartment and slots for document storage, it is not not very suitable for carrying weapons\r\n        increase inventory space when equipped"
  	 	 	}
  	 	},
@@ -1056,7 +1056,7 @@
  	 	 	 	"eng": "Autonomous Storage Unit"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "An military used bot designed to carry your equipments and follows you autonomously,\r\n        with it's six strong legs that imitates the movement of spiders and a advance onboard AI, \r\n        it can follow you swiftly and quietly while it avoids get in the way of whatever mission you are performing",
+ 	 	 	 	"trans": "Бот, используемый в военных целях, предназначен для перевозки вашего оборудования и следует за вами автономно,\r\n        с его шестью сильными ногами, имитирующими движение пауков, и передовым бортовым ИИ, \r\n        он может следовать за вами быстро и тихо, не мешая выполнению любой миссии, которую вы выполняете",
  	 	 	 	"eng": "An military used bot designed to carry your equipments and follows you autonomously,\r\n        with it's six strong legs that imitates the movement of spiders and a advance onboard AI, \r\n        it can follow you swiftly and quietly while it avoids get in the way of whatever mission you are performing"
  	 	 	}
  	 	}
@@ -1094,7 +1094,7 @@
  	 	 	 	 	"keyFragmentDisplayName",
  	 	 	 	 	"expMultiplier"
  	 	 	 	],
- 	 	 	 	"trans": "Рекомендуемый Уровень:　${maxLevel}+, с другими игроками\r\n                    ${expMultiplier}x опыта!\r\n                    Усложненный данж с дополнительным лутом и опытом.\r\n                    Можно найти ${keyFragmentDisplayName}\r\n                    Не рекомендуется проходить при слишком низком уровне",
+ 	 	 	 	"trans": "Рекомендуемый Уровень:　${maxLevel}+, с другими игроками\r\n                    ${expMultiplier}x больше опыта!\r\n                    Усложненный данж с дополнительным лутом и опытом.\r\n                    Можно найти ${keyFragmentDisplayName}\r\n                    Не рекомендуется проходить при слишком низком уровне",
  	 	 	 	"eng": "Recommended Level:　${maxLevel}+ with co-op\r\n                    ${expMultiplier}x more EXP!\r\n                    Challenge mode dungeon, extra loot and exp.\r\n                    Drops ${keyFragmentDisplayName}\r\n                    Not advised to enter if your level is too low"
  	 	 	},
  	 	 	"tut": {
@@ -1114,7 +1114,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"zoneName"
  	 	 	 	],
- 	 	 	 	"trans": "invade ${zoneName}",
+ 	 	 	 	"trans": "Вторгнуться ${zoneName}",
  	 	 	 	"eng": "invade ${zoneName}"
  	 	 	},
  	 	 	"description": {
@@ -1123,7 +1123,7 @@
  	 	 	 	 	"keyFragmentDisplayName",
  	 	 	 	 	"expMultiplier"
  	 	 	 	],
- 	 	 	 	"trans": "Recommended Level:　${maxLevel}+ with co-op\r\n                    ${expMultiplier}x more EXP!\r\n                    Gang mode dungeon, extra loot and exp. \r\n                    Boss drops are rare+ \r\n                    Not advised to enter if your level is too low",
+ 	 	 	 	"trans": "Рекомендуемый Уровень:　${maxLevel}+ Вместе\r\n                    ${expMultiplier}x Больше Опыта!\r\n                    Подземелье в режиме банды, дополнительная добыча и опыт. \r\n                    Выпадение Редких предметов с босса+ \r\n                    Не рекомендуется входить, если ваш уровень слишком низкий",
  	 	 	 	"eng": "Recommended Level:　${maxLevel}+ with co-op\r\n                    ${expMultiplier}x more EXP!\r\n                    Gang mode dungeon, extra loot and exp. \r\n                    Boss drops are rare+ \r\n                    Not advised to enter if your level is too low"
  	 	 	}
  	 	}
@@ -1410,11 +1410,11 @@
  	 	 	 	"eng": "Help with translating the game"
  	 	 	},
  	 	 	"receiveClanNotification": {
- 	 	 	 	"trans": "Receive Gang Notification",
+ 	 	 	 	"trans": "Получать уведомление о Банде",
  	 	 	 	"eng": "Receive Gang Notification"
  	 	 	},
  	 	 	"receiveGlobalNotification": {
- 	 	 	 	"trans": "Receive Global Buff Notification",
+ 	 	 	 	"trans": "Получать уведомление о глобальном Эффекте",
  	 	 	 	"eng": "Receive Global Buff Notification"
  	 	 	}
  	 	},
@@ -1455,42 +1455,42 @@
  	 	"clan": {
  	 	 	"selectDepositAmount": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Please enter amount you want to deposit",
+ 	 	 	 	 	"trans": "Пожалуйста, выберите сумму, которую хотите внести",
  	 	 	 	 	"eng": "Please enter amount you want to deposit"
  	 	 	 	},
  	 	 	 	"detail": {
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"amount"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "${amount} bitcoin will be deposit into your gang account, this cannot be reversed",
+ 	 	 	 	 	"trans": "${amount} БитКоин будет зачислен на ваш банковский счет, это не может быть отменено",
  	 	 	 	 	"eng": "${amount} bitcoin will be deposit into your gang account, this cannot be reversed"
  	 	 	 	}
  	 	 	},
  	 	 	"deposit": {
- 	 	 	 	"trans": "Deposit Bitcoin",
+ 	 	 	 	"trans": "Внести БитКоин",
  	 	 	 	"eng": "Deposit Bitcoin"
  	 	 	},
  	 	 	"level": {
- 	 	 	 	"trans": "Gang Level",
+ 	 	 	 	"trans": "Уровень Банды",
  	 	 	 	"eng": "Gang Level"
  	 	 	},
  	 	 	"resource": {
- 	 	 	 	"trans": "Resource",
+ 	 	 	 	"trans": "Ресурс",
  	 	 	 	"eng": "Resource"
  	 	 	},
  	 	 	"funding": {
- 	 	 	 	"trans": "funding",
+ 	 	 	 	"trans": "Финансирование",
  	 	 	 	"eng": "funding"
  	 	 	},
  	 	 	"memberCount": {
- 	 	 	 	"trans": "members",
+ 	 	 	 	"trans": "Члены",
  	 	 	 	"eng": "members"
  	 	 	},
  	 	 	"nextUpkeepDate": {
  	 	 	 	"vars": [
  	 	 	 	 	"nextUpkeepDate"
  	 	 	 	],
- 	 	 	 	"trans": "Next upkeep Date: ${nextUpkeepDate}",
+ 	 	 	 	"trans": "Следующая дата обслуживания: ${nextUpkeepDate}",
  	 	 	 	"eng": "Next upkeep Date: ${nextUpkeepDate}"
  	 	 	},
  	 	 	"insufficientError": {
@@ -1498,79 +1498,79 @@
  	 	 	 	"eng": "resource critical"
  	 	 	},
  	 	 	"insufficientFound": {
- 	 	 	 	"trans": "Insufficient Found",
+ 	 	 	 	"trans": "Недостаточно средств",
  	 	 	 	"eng": "Insufficient Found"
  	 	 	},
  	 	 	"insufficientResource": {
- 	 	 	 	"trans": "Insufficient Resource",
+ 	 	 	 	"trans": "Недостаточно ресурсов",
  	 	 	 	"eng": "Insufficient Resource"
  	 	 	},
  	 	 	"members": {
- 	 	 	 	"trans": "Members",
+ 	 	 	 	"trans": "Члены",
  	 	 	 	"eng": "Members"
  	 	 	}
  	 	},
  	 	"equipmentDisplay": {
  	 	 	"empty": {
- 	 	 	 	"trans": "Empty",
+ 	 	 	 	"trans": "Пусто",
  	 	 	 	"eng": "Empty"
  	 	 	}
  	 	},
  	 	"fab": {
  	 	 	"dungeonList": {
- 	 	 	 	"trans": "Dungeon List",
+ 	 	 	 	"trans": "Список Подземелий",
  	 	 	 	"eng": "Dungeon List"
  	 	 	},
  	 	 	"links": {
- 	 	 	 	"trans": "links",
+ 	 	 	 	"trans": "Связи",
  	 	 	 	"eng": "links"
  	 	 	},
  	 	 	"premiumShop": {
- 	 	 	 	"trans": "Premium Shop",
+ 	 	 	 	"trans": "Премиальный магазин",
  	 	 	 	"eng": "Premium Shop"
  	 	 	},
  	 	 	"friendList": {
- 	 	 	 	"trans": "Friend List",
+ 	 	 	 	"trans": "Список Друзей",
  	 	 	 	"eng": "Friend List"
  	 	 	},
  	 	 	"leaderBoard": {
- 	 	 	 	"trans": "Leader Board",
+ 	 	 	 	"trans": "Таблица Лидеров",
  	 	 	 	"eng": "Leader Board"
  	 	 	},
  	 	 	"skipQueue": {
- 	 	 	 	"trans": "Skip Queue",
+ 	 	 	 	"trans": "Пропустить очередь",
  	 	 	 	"eng": "Skip Queue"
  	 	 	},
  	 	 	"settings": {
- 	 	 	 	"trans": "Settings",
+ 	 	 	 	"trans": "Настройки",
  	 	 	 	"eng": "Settings"
  	 	 	}
  	 	},
  	 	"machineCrafting": {
  	 	 	"titleBox": {
  	 	 	 	"tile": {
- 	 	 	 	 	"trans": "system idle",
+ 	 	 	 	 	"trans": "простой системы",
  	 	 	 	 	"eng": "system idle"
  	 	 	 	},
  	 	 	 	"subtitle": {
- 	 	 	 	 	"trans": "Please inset an item",
+ 	 	 	 	 	"trans": "Пожалуйста, вставте предмет",
  	 	 	 	 	"eng": "Please inset an item"
  	 	 	 	}
  	 	 	},
  	 	 	"selectItemButton": {
- 	 	 	 	"trans": "Recycle Item",
+ 	 	 	 	"trans": "Утилизировать предмет",
  	 	 	 	"eng": "Recycle Item"
  	 	 	},
  	 	 	"selectAmount": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Please select amount",
+ 	 	 	 	 	"trans": "Пожалуйста, выберите величину",
  	 	 	 	 	"eng": "Please select amount"
  	 	 	 	},
  	 	 	 	"subtitle": {
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"timeStr"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "This will take ${timeStr}",
+ 	 	 	 	 	"trans": "Это займет ${timeStr}",
  	 	 	 	 	"eng": "This will take ${timeStr}"
  	 	 	 	}
  	 	 	}
@@ -1578,7 +1578,7 @@
  	 	"modal": {
  	 	 	"upgradeFailed": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Error",
+ 	 	 	 	 	"trans": "Ошибка",
  	 	 	 	 	"eng": "Error"
  	 	 	 	},
  	 	 	 	"subtitle": {
@@ -1588,21 +1588,21 @@
  	 	 	},
  	 	 	"upgradeSuccess": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Calibration Success",
+ 	 	 	 	 	"trans": "Успешная Калибровка",
  	 	 	 	 	"eng": "Calibration Success"
  	 	 	 	},
  	 	 	 	"subtitle": {
- 	 	 	 	 	"trans": "No error detected",
+ 	 	 	 	 	"trans": "Ошибка не обнаружена",
  	 	 	 	 	"eng": "No error detected"
  	 	 	 	}
  	 	 	},
  	 	 	"leaveDungeon": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Are you sure you want to leave this dungeon?",
+ 	 	 	 	 	"trans": "Вы уверены что хотите покинуть это подземелье?",
  	 	 	 	 	"eng": "Are you sure you want to leave this dungeon?"
  	 	 	 	},
  	 	 	 	"subtitle": {
- 	 	 	 	 	"trans": "You will not be able to enter this dungeon instance again",
+ 	 	 	 	 	"trans": "Вы не сможете снова войти в это подземелье",
  	 	 	 	 	"eng": "You will not be able to enter this dungeon instance again"
  	 	 	 	}
  	 	 	}
@@ -1610,35 +1610,35 @@
  	 	"equipmentUpgrade": {
  	 	 	"notActivated": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Core not found",
+ 	 	 	 	 	"trans": "Ядро не найдено",
  	 	 	 	 	"eng": "Core not found"
  	 	 	 	},
  	 	 	 	"subTitle": {
- 	 	 	 	 	"trans": "Please insert Calibration Core",
+ 	 	 	 	 	"trans": "Пожалуйста, вставте калибровочное Ядро",
  	 	 	 	 	"eng": "Please insert Calibration Core"
  	 	 	 	}
  	 	 	},
  	 	 	"activate": {
- 	 	 	 	"trans": "Insert Core",
+ 	 	 	 	"trans": "Вставить Ядро",
  	 	 	 	"eng": "Insert Core"
  	 	 	},
  	 	 	"activating": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Processing",
+ 	 	 	 	 	"trans": "Обработка",
  	 	 	 	 	"eng": "Processing"
  	 	 	 	},
  	 	 	 	"subTitle": {
- 	 	 	 	 	"trans": "Decrypting shard",
+ 	 	 	 	 	"trans": "Расшифровывающий осколок",
  	 	 	 	 	"eng": "Decrypting shard"
  	 	 	 	}
  	 	 	},
  	 	 	"noEquipment": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "equipment not found",
+ 	 	 	 	 	"trans": "Экипировка не найдена",
  	 	 	 	 	"eng": "equipment not found"
  	 	 	 	},
  	 	 	 	"subTitle": {
- 	 	 	 	 	"trans": "Select an equipment to continue",
+ 	 	 	 	 	"trans": "Выберите экипировку для продалжения",
  	 	 	 	 	"eng": "Select an equipment to continue"
  	 	 	 	}
  	 	 	},
@@ -1648,32 +1648,32 @@
  	 	 	 	 	"eng": "Compatible Item Identified"
  	 	 	 	},
  	 	 	 	"subTitle": {
- 	 	 	 	 	"trans": "All system ready",
+ 	 	 	 	 	"trans": "Все системы готовы",
  	 	 	 	 	"eng": "All system ready"
  	 	 	 	}
  	 	 	},
  	 	 	"failureRate": {
- 	 	 	 	"trans": "Chance of destructive failure",
+ 	 	 	 	"trans": "Вероятность разрушения при провале",
  	 	 	 	"eng": "Chance of destructive failure"
  	 	 	},
  	 	 	"selectEquipmentTitle": {
- 	 	 	 	"trans": "Please select an item to calibrate",
+ 	 	 	 	"trans": "Пожалуйста, выберите предмет для калибровки",
  	 	 	 	"eng": "Please select an item to calibrate"
  	 	 	},
  	 	 	"upgradeButton": {
- 	 	 	 	"trans": "Calibrate",
+ 	 	 	 	"trans": "Калибровать",
  	 	 	 	"eng": "Calibrate"
  	 	 	}
  	 	},
  	 	"itemInbox": {
  	 	 	"getAllItems": {
- 	 	 	 	"trans": "Get All Items",
+ 	 	 	 	"trans": "Получить все предметы",
  	 	 	 	"eng": "Get All Items"
  	 	 	}
  	 	},
  	 	"linkPage": {
  	 	 	"forum": {
- 	 	 	 	"trans": "Official Forum",
+ 	 	 	 	"trans": "Официальный форум",
  	 	 	 	"eng": "Official Forum"
  	 	 	}
  	 	},
@@ -1683,7 +1683,7 @@
  	 	 	 	"eng": "Equipment Cache not found"
  	 	 	},
  	 	 	"subTitle": {
- 	 	 	 	"trans": "gather the caches from enemies and dungeons to print your new weapons and armor",
+ 	 	 	 	"trans": "соберите тайники с врагов и подземелий, чтобы распечатать свое новое оружие и доспехи",
  	 	 	 	"eng": "gather the caches from enemies and dungeons to print your new weapons and armor"
  	 	 	}
  	 	}
@@ -1742,15 +1742,15 @@
  	 	 	"eng": "Status Effects"
  	 	},
  	 	"notTradable": {
- 	 	 	"trans": "not tradable",
+ 	 	 	"trans": "Не продается",
  	 	 	"eng": "not tradable"
  	 	},
  	 	"itemUpgradeCapacity": {
- 	 	 	"trans": "Calibration Capacity",
+ 	 	 	"trans": "Collibration cfpacity",
  	 	 	"eng": "Collaboration Capacity"
  	 	},
  	 	"systemStandby": {
- 	 	 	"trans": "System standby",
+ 	 	 	"trans": "Система в режиме ожидания",
  	 	 	"eng": "System standby"
  	 	}
  	},
@@ -1973,21 +1973,21 @@
  	 	},
  	 	"upgradeChance": {
  	 	 	"name": {
- 	 	 	 	"trans": "Calibration Chance",
+ 	 	 	 	"trans": "Шанс Калибровки",
  	 	 	 	"eng": "Calibration Chance"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Reduces chance of destructive failure when calibrating items",
+ 	 	 	 	"trans": "Снижает вероятность разрушения при калибровке изделий",
  	 	 	 	"eng": "Reduces chance of destructive failure when calibrating items"
  	 	 	}
  	 	},
  	 	"upgradeNoBreak": {
  	 	 	"name": {
- 	 	 	 	"trans": "Calibration Safety",
+ 	 	 	 	"trans": "Безопасность калибровки",
  	 	 	 	"eng": "Calibration Safety"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Calibration fails will not destroy the item",
+ 	 	 	 	"trans": "Ошибка калибровки не приведёт к уничтожению предмета",
  	 	 	 	"eng": "Calibration fails will not destroy the item"
  	 	 	}
  	 	}
@@ -2035,23 +2035,23 @@
  	 	},
  	 	"backpack1": {
  	 	 	"name": {
- 	 	 	 	"trans": "Old Pouch",
+ 	 	 	 	"trans": "Старая Сумка",
  	 	 	 	"eng": "Old Pouch"
  	 	 	}
  	 	},
  	 	"trade": {
- 	 	 	"trans": "Trade",
+ 	 	 	"trans": "Сделка",
  	 	 	"eng": "Trade"
  	 	},
  	 	"backpack2": {
  	 	 	"name": {
- 	 	 	 	"trans": "Fanny Pack",
+ 	 	 	 	"trans": "Сумка-пояс",
  	 	 	 	"eng": "Fanny Pack"
  	 	 	}
  	 	},
  	 	"backpack3": {
  	 	 	"name": {
- 	 	 	 	"trans": "Explorer's Backpack",
+ 	 	 	 	"trans": "Рюкзак Исследователя",
  	 	 	 	"eng": "Explorer's Backpack"
  	 	 	}
  	 	},
@@ -2063,7 +2063,7 @@
  	 	},
  	 	"backpack5": {
  	 	 	"name": {
- 	 	 	 	"trans": "Autonomous Storage Unit",
+ 	 	 	 	"trans": "Автономный накопитель",
  	 	 	 	"eng": "Autonomous Storage Unit"
  	 	 	}
  	 	}
@@ -2082,11 +2082,11 @@
  	 	 	"vars": [
  	 	 	 	"total"
  	 	 	],
- 	 	 	"trans": "При успешной продаже всего будет получено ${total} БитКоинов",
+ 	 	 	"trans": "При успешной продаже вы заработаете ${total} БитКоинов",
  	 	 	"eng": "If all of them are sold, you will earn ${total} BitCoins"
  	 	},
  	 	"sellAmountModalTitle": {
- 	 	 	"trans": "Сколько будет выставлено на продажу?",
+ 	 	 	"trans": "Сколько вы хотели бы продать?",
  	 	 	"eng": "How many would you like to sell?"
  	 	}
  	},
@@ -2127,21 +2127,21 @@
  	 	 	"vars": [
  	 	 	 	"clanResource"
  	 	 	],
- 	 	 	"trans": "${clanResource} gang resource",
+ 	 	 	"trans": "${clanResource} Ресурсы банды",
  	 	 	"eng": "${clanResource} gang resource"
  	 	},
  	 	"gangExp": {
  	 	 	"vars": [
  	 	 	 	"clanExp"
  	 	 	],
- 	 	 	"trans": "${clanExp} gang exp",
+ 	 	 	"trans": "${clanExp} Опыт банды",
  	 	 	"eng": "${clanExp} gang exp"
  	 	},
  	 	"gangFunding": {
  	 	 	"vars": [
  	 	 	 	"clanMoney"
  	 	 	],
- 	 	 	"trans": "${clanMoney} gang funding",
+ 	 	 	"trans": "${clanMoney} Ресурсы банды",
  	 	 	"eng": "${clanMoney} gang funding"
  	 	}
  	}
